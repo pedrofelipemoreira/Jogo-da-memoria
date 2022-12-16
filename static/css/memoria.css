@@ -137,3 +137,10 @@ main {
   margin-top: 38%;
   margin-left: 12%;
 }
+
+.voltar{
+  position: absolute;
+  height: 5%;
+  margin-left: 1%;
+  margin-top: -4%;
+}
